@@ -4,3 +4,4 @@
 -screen resolution set to 1280x720; scales down effectively
 -loading of bitmaps is NOT optimized
 -texture atlas capacity is 2048x2048
+-need to fix lock button error
