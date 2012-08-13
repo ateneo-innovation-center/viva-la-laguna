@@ -1,29 +1,4 @@
 /home/fangirl/space/VVL/gen/com/activity/VVL/R.java \
- : /home/fangirl/space/VVL/res/layout/main.xml \
-/home/fangirl/space/VVL/res/values/strings.xml \
-/home/fangirl/space/VVL/res/drawable/lakefishpink.png \
-/home/fangirl/space/VVL/res/drawable/lakebubble.png \
-/home/fangirl/space/VVL/res/drawable/barhealth.png \
-/home/fangirl/space/VVL/res/drawable/barmorale.png \
-/home/fangirl/space/VVL/res/drawable/boxlabel.png \
-/home/fangirl/space/VVL/res/drawable/lakefishblue.png \
-/home/fangirl/space/VVL/res/drawable/barmoraleempty.png \
-/home/fangirl/space/VVL/res/drawable/buttonmenuskills.png \
-/home/fangirl/space/VVL/res/drawable/barhealthlabel.png \
-/home/fangirl/space/VVL/res/drawable/arrowup.png \
-/home/fangirl/space/VVL/res/drawable/lakefishgreen.png \
-/home/fangirl/space/VVL/res/drawable/lakebackground.png \
-/home/fangirl/space/VVL/res/drawable/buttonsimulate.png \
-/home/fangirl/space/VVL/res/drawable/buttonzoomin.png \
-/home/fangirl/space/VVL/res/drawable/boxmessage.png \
-/home/fangirl/space/VVL/res/drawable/arrowdown.png \
-/home/fangirl/space/VVL/res/drawable/arrowleft.png \
-/home/fangirl/space/VVL/res/drawable/barmoralelabel.png \
-/home/fangirl/space/VVL/res/drawable/buttonmainmenu.png \
-/home/fangirl/space/VVL/res/drawable/buttonmenujournal.png \
-/home/fangirl/space/VVL/res/drawable/buttonzoomout.png \
-/home/fangirl/space/VVL/res/drawable/barhealthempty.png \
-/home/fangirl/space/VVL/res/drawable/arrowright.png \
-/home/fangirl/space/VVL/res/drawable/buttonmenurecruit.png \
-/home/fangirl/space/VVL/res/drawable/boxavatar.png \
+/home/fangirl/space/VVL/gen/org/andengine/R.java \
+ : /home/fangirl/space/VVL/res/values/strings.xml \
 /home/fangirl/space/VVL/AndroidManifest.xml \

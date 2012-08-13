@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.activity.VVL;
+package org.andengine;
 
 public final class R {
     public static final class attr {
