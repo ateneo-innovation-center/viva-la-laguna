@@ -1,0 +1,6 @@
+-target 6
+-requires external library AndEngine
+-created pause button and loaded background images via bitmapTextureAtlas
+-screen resolution set to 1280x720; scales down effectively
+-loading of bitmaps is NOT optimized
+-texture atlas capacity is 2048x2048
